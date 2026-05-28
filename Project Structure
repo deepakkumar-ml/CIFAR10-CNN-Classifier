@@ -1,2 +1,14 @@
+cifar10-cnn-classifier/
+├── models/
+│   └── 📄 cifar10_model.h5
+├── notebook/
+│   └── 📄 cifar10_classifier.ipynb
+├── sample images/
+│   ├── image.png
+│   ├── image.jpg
+│   └── image.png
+├── 📄 LICENSE
+├── 📄 README.md
+└── 📄 requirements.txt
 
         
